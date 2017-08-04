@@ -1,2 +1,2 @@
+var arr=[];
 var obj={};
-obj=arr[];
